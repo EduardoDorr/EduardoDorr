@@ -1,4 +1,4 @@
-### 👋 Olá, sou Eduardo, Engenheiro Eletricista, Técnico Eletromecânico e Eletrônico e Desenvolvedor C#.
+### Olá, sou Eduardo, Engenheiro Eletricista, Técnico Eletromecânico e Eletrônico e Desenvolvedor C#.
 
 <div align="center">
   <a href="https://github.com/EduardoDorr">
