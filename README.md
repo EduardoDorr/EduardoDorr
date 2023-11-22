@@ -5,8 +5,6 @@
 <div align="center">
   <a href="https://github.com/EduardoDorr">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EduardoDorr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoDorr&layout=compact&langs_count=10&theme=dracula"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EduardoDorr&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoDorr&layout=compact&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
