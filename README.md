@@ -6,6 +6,9 @@
   <a href="https://github.com/EduardoDorr">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EduardoDorr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoDorr&layout=compact&langs_count=10&theme=dracula"/>
+
+    ![EduardoDorr's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoDorr&show_icons=true&theme=transparent)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoDorr)](https://github.com/EduardoDorr/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Eduardo-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
