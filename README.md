@@ -1,4 +1,4 @@
-### 💻 Olá, sou Eduardo, Engenheiro Eletricista e Desenvolvedor C#.
+### 💻 Olá, sou Eduardo, Engenheiro Eletricista e Desenvolvedor .NET.
 
 ### 📚 Sempre estudando e tentando ser um pouco melhor do que ontem. Meu objetivo é poder se tornar uma referência técnica na área de desenvolvimento e um futuro arquiteto de software.
 
